@@ -26,7 +26,7 @@ function App(){
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Steven's face of cruelty and React logos to learn more.
+        Click on Steven's face of cruelty and React logos to learn more.
       </p>
     </>
   )
