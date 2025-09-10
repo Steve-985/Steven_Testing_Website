@@ -1,6 +1,7 @@
 import {useState} from 'react'
 import reactLogo from './assets/react.svg'
 import cruelty from './assets/Cruelty.jpeg'
+import sewer from './assets/sewerpipe.png'
 import './App.css'
 
 function App(){
@@ -8,6 +9,11 @@ function App(){
 
   return(
     <>
+      <div>
+        <a href="./other_pages/idk.html">
+          <img src={sewer} className="logo" alt="Different page button"/>
+        </a>
+      </div>
       <div>
         <a href="https://github.com/Steve-985?tab=repositories" target="_blank">
           <img src={cruelty} className="logo" alt="The face of cruelty" />
