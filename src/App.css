@@ -24,6 +24,9 @@
 .logo.react:hover{
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
+.logo.gross:hover{
+  filter: drop-shadow(0 0 2em #00ff08d4);
+}
 
 @keyframes logo-spin{
   from{

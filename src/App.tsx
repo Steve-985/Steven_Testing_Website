@@ -11,7 +11,7 @@ function App(){
     <>
       <div>
         <a href="./other_pages/idk.html">
-          <img src={sewer} className="logo" alt="Different page button"/>
+          <img src={sewer} className="logo gross" alt="Different page button"/>
         </a>
       </div>
       <div>
